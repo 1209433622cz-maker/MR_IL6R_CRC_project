@@ -1,0 +1,24 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+*.tmp
+*.bak
+.Rhistory
+.RData
+.Rproj.user/
+
+# Large/private local archives
+_private_reference_pdfs/
+_local_large_archives/
+raw_data/
+GEO_raw/
+*.fastq
+*.fq
+*.bam
+*.sam
+*.cram
+
+# Do not push huge local-only zip bundles unless intentionally using release assets/LFS
+*_TOTAL_PACK*.zip
+*_reference_papers*.zip
+*_all_cited_references*.zip

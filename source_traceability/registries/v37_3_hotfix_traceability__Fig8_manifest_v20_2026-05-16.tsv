@@ -1,0 +1,12 @@
+item	path	exists
+fig8_version	v20.0.0 finalizer based on v19 outputs	TRUE
+support_gene_set_v19	3_results/05_network_docking/Fig8A_IL6R_support_gene_set_v19_2026-05-16.tsv	TRUE
+network_nodes_v19	3_results/05_network_docking/Fig8A_network_nodes_v19_2026-05-16.tsv	TRUE
+network_edges_v19	3_results/05_network_docking/Fig8A_network_edges_v19_2026-05-16.tsv	TRUE
+GO_BP_v19	3_results/05_network_docking/Fig8B_GO_BP_v19_2026-05-16.tsv	TRUE
+KEGG_v19	3_results/05_network_docking/Fig8B_KEGG_v19_2026-05-16.tsv	TRUE
+Reactome_v19	3_results/05_network_docking/Fig8B_Reactome_v19_2026-05-16.tsv	TRUE
+drug_target_candidates_v20	3_results/05_network_docking/Fig8C_drug_target_candidates_v20_2026-05-16.tsv	TRUE
+Fig8C_pdf_v20	4_figures/Fig8/Fig8C_drug_target_network_v20_2026-05-16.pdf	TRUE
+Fig8C_png_v20	4_figures/Fig8/Fig8C_drug_target_network_v20_2026-05-16.png	TRUE
+master_evidence_summary_v20	3_results/05_network_docking/Fig8_master_evidence_summary_v20_2026-05-16.tsv	TRUE

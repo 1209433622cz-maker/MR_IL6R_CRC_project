@@ -1,0 +1,6 @@
+module	output_status	n_records	interpretation
+Fig8A_coexpression_network	available	support_genes=109; nodes=109; edges=4933	IL6R-centered tumour co-expression network for immune/myeloid support layer.
+Fig8B_GO_BP	available	895	GO biological processes for the IL6R-associated support gene set.
+Fig8B_KEGG	available	90	KEGG pathways for the IL6R-associated support gene set.
+Fig8B_Reactome	available	95	Reactome pathways for the IL6R-associated support gene set.
+Fig8C_drug_target	available	drugs=9; targets=7; edges=12	Exploratory drug-target axis-level support; not interpreted as CRC-approved therapy.

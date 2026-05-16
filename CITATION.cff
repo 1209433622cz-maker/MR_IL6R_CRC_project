@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the associated manuscript."
+title: "MR_IL6R_CRC_project"
+authors:
+  - family-names: "Chen"
+    given-names: "Zhi"
+    affiliation: "The Chinese University of Hong Kong, Shenzhen"
+    email: "zhichen1@link.cuhk.edu.cn"
+version: "v47-github-upload"
+date-released: "2026-05-17"
+repository-code: "https://github.com/<YOUR_GITHUB_USERNAME>/MR_IL6R_CRC_project"

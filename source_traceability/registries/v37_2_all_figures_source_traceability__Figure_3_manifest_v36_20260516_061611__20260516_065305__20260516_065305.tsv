@@ -1,0 +1,12 @@
+item	path	exists
+pdf	D:\SCI2\MD-1\MR_IL6R_CRC_project_template_v4/4_figures_submission_v36/01_main_figures/Figure_3_colocalization_nonoverlap_evidence_gauge_v36_20260516_061609.pdf	TRUE
+png	D:\SCI2\MD-1\MR_IL6R_CRC_project_template_v4/4_figures_submission_v36/01_main_figures/Figure_3_colocalization_nonoverlap_evidence_gauge_v36_20260516_061609.png	TRUE
+svg	D:\SCI2\MD-1\MR_IL6R_CRC_project_template_v4/4_figures_submission_v36/01_main_figures/Figure_3_colocalization_nonoverlap_evidence_gauge_v36_20260516_061609.svg	TRUE
+source_table	D:\SCI2\MD-1\MR_IL6R_CRC_project_template_v4/4_figures_submission_v36/04_source_tables/Figure_3_coloc_pp_plot_data_v36_20260516_061611.tsv	TRUE
+legend	D:\SCI2\MD-1\MR_IL6R_CRC_project_template_v4/4_figures_submission_v36/03_legends/Figure_3_legend_v36_20260516_061611.md	TRUE
+PP.H1	0.88992138120914	TRUE
+PP.H3	0.0621093361691188	TRUE
+PP.H4	0.0479692826220467	TRUE
+posterior_sum	1.00000000000031	TRUE
+version	v36.0.0	TRUE
+fix	B/C changed from prose cards to quantitative evidence panels	TRUE

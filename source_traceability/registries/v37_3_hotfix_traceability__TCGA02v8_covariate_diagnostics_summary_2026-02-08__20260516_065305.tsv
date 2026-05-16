@@ -1,0 +1,9 @@
+var	n	events	n_levels	n_sparse_levels_n	n_sparse_levels_events	missing_prop	recommendation	reason
+age_at_diagnosis	643	129	5	0	0	0.06220839813374806	keep	
+ajcc_pathologic_m	643	129	6	2	2	0.15863141524105753	avoid_in_multiv	many_sparse_levels;
+ajcc_pathologic_n	643	129	10	2	5	0.14930015552099535	avoid_in_multiv	many_sparse_levels;
+ajcc_pathologic_stage	643	129	5	0	0	0.18040435458786935	keep	
+ajcc_pathologic_t	643	129	11	5	5	0.14930015552099535	avoid_in_multiv	many_sparse_levels;
+ethnicity	643	129	4	2	2	0	avoid_in_multiv	many_sparse_levels;
+gender	643	129	2	0	0	0	keep	
+race	643	129	5	1	2	0	avoid_in_multiv	many_sparse_levels;

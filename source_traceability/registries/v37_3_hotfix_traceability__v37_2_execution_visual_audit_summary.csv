@@ -1,0 +1,8 @@
+﻿Figure,v37.2_output,status,main_issue,recommendation
+Figure 1,Generated,Failed visual audit,Black/transparent background and header labels are wrong/repeated; evidence-layer headers overlap columns.,Re-render using explicit five-layer workflow table with white background and proper header labels.
+Figure 2,Not generated,Failed execution,R syntax error in beta assignment: unexpected semicolon after :=.,Run v37.3 fixed MR script from frozen source plot table.
+Figure 3,Generated,Pass with minor polish,No major clipping; interpretation scale is acceptable.,Keep v37.2 or allow optional polishing only.
+Figure 4,Not generated,Failed execution,Manifest-writing error from ifelse(NULL) after expression/survival read; figure not saved.,Run v37.3 fixed TCGA expression/survival script.
+Figure 5,Generated,Pass with minor polish,Readable; capped rho/FDR scale is clear.,Keep v37.2; no urgent rerun required.
+Figure 6,Generated,Conditional pass,Traceable panel assembly succeeded but title overlaps panels A/B; source panels remain raster.,Run v37.3 cleaner panel assembly with title separated from panel grid.
+Figure 7,Not generated,Failed execution,R syntax error when forcing IL6R coordinates; Figure 7 output missing.,Run v37.3 fixed IL6R-centered support-layer script.

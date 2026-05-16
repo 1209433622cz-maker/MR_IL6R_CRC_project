@@ -1,0 +1,11 @@
+item	path	exists
+pdf	D:\SCI2\MD-1\MR_IL6R_CRC_project_template_v4/4_figures_submission_v30_3/01_main_figures/Figure_3_Colocalization_IL6R_locus_visual_hotfix_v30_3_20260516_051026.pdf	TRUE
+png	D:\SCI2\MD-1\MR_IL6R_CRC_project_template_v4/4_figures_submission_v30_3/01_main_figures/Figure_3_Colocalization_IL6R_locus_visual_hotfix_v30_3_20260516_051026.png	TRUE
+svg	D:\SCI2\MD-1\MR_IL6R_CRC_project_template_v4/4_figures_submission_v30_3/01_main_figures/Figure_3_Colocalization_IL6R_locus_visual_hotfix_v30_3_20260516_051026.svg	TRUE
+source_table	D:\SCI2\MD-1\MR_IL6R_CRC_project_template_v4/4_figures_submission_v30_3/07_source_tables/Figure_3_coloc_pp_plot_data_v30_3_20260516_051026.tsv	TRUE
+legend	D:\SCI2\MD-1\MR_IL6R_CRC_project_template_v4/4_figures_submission_v30_3/03_legends/Figure_3_legend_v30_3_20260516_051026.md	TRUE
+pp_h4	0.047969	TRUE
+pp_h3	0.062109	TRUE
+highest_hypothesis	H1	TRUE
+version	v30.3.0	TRUE
+source_pp_table	D:\SCI2\MD-1\MR_IL6R_CRC_project_template_v4/3_results/02_coloc/table2_coloc_pp_2026-01-27_014727.tsv	TRUE

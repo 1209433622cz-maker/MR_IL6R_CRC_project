@@ -1,0 +1,6 @@
+﻿file,type,source,width_px,height_px,dpi,print_width_mm_at_300dpi,note
+Figure_1_workflow_fullwidth_300dpi_raster_v44_20260516_1905.png,raster_png,Figure_1_JTM_final_candidate_v40_20260516_1745.png,2100,1575,300,177.8,Upscaled from v40 PNG; improves file dimension but not true native vector detail.
+Figure_1_workflow_fullwidth_300dpi_raster_wrapped_v44_20260516_1905.pdf,raster_wrapped_pdf,Figure_1_workflow_fullwidth_300dpi_raster_v44_20260516_1905.png,2100,1575,embedded 300 logical,170,PDF wrapper around 300dpi raster image.
+Figure_1_workflow_fullwidth_300dpi_raster_wrapped_v44_20260516_1905.svg,raster_wrapped_svg,Figure_1_workflow_fullwidth_300dpi_raster_v44_20260516_1905.png,2100,1575,300 logical,170,SVG wrapper around base64 raster image; not true editable vector.
+Figure_1_workflow_vector_redraw_clean_v44_20260516_1905.svg,native_vector_svg,R/Python vector redraw,2400,1600,vector,scalable,Clean vector-style redraw; not identical to image2 icons but fully scalable.
+Figure_1_workflow_vector_redraw_clean_v44_20260516_1905.pdf,native_vector_pdf,Figure_1_workflow_vector_redraw_clean_v44_20260516_1905.svg,2400,1600,vector,scalable,PDF generated from vector SVG.

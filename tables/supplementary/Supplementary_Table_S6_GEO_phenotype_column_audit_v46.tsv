@@ -1,0 +1,141 @@
+cohort	column_name	example_value
+GSE17536	title	MCC Patient 1 | MCC Patient 2 | MCC Patient 3
+GSE17536	geo_accession	GSM437093 | GSM437094 | GSM437095
+GSE17536	status	Public on Nov 14 2009
+GSE17536	submission_date	Aug 06 2009
+GSE17536	last_update_date	Nov 02 2009 | May 30 2011 | Aug 28 2018
+GSE17536	type	RNA
+GSE17536	channel_count	1
+GSE17536	source_name_ch1	Moffitt Cancer Center
+GSE17536	organism_ch1	Homo sapiens
+GSE17536	characteristics_ch1	age: 73 | age: 63 | age: 51
+GSE17536	characteristics_ch1.1	gender: male | gender: female
+GSE17536	characteristics_ch1.2	ethnicity: caucasian | ethnicity: other (not caucasian, black, or hispanic) | ethnicity: hispanic
+GSE17536	characteristics_ch1.3	ajcc_stage: 1 | ajcc_stage: 2 | ajcc_stage: 3
+GSE17536	characteristics_ch1.4	grade: 2 - Moderately differentiated (MD) | grade: 1 - Well differentiated (WD) | grade: 3 - Poorly differentiated (PD)
+GSE17536	characteristics_ch1.5	overall_event (death from any cause): no death | overall_event (death from any cause): death
+GSE17536	characteristics_ch1.6	dss_event (disease specific survival; death from cancer): no death | dss_event (disease specific survival; death from cancer): death
+GSE17536	characteristics_ch1.7	dfs_event (disease free survival; cancer recurrence): no recurrence | dfs_event (disease free survival; cancer recurrence): recurrence | dfs_event (disease free survival; cancer recurrence): NA
+GSE17536	characteristics_ch1.8	overall survival follow-up time: 142.55 | overall survival follow-up time: 122.72 | overall survival follow-up time: 28.96
+GSE17536	characteristics_ch1.9	dss_time: 142.55 | dss_time: 122.72 | dss_time: 28.96
+GSE17536	characteristics_ch1.10	dfs_time: 142.55 | dfs_time: 122.72 | dfs_time: 28.96
+GSE17536	molecule_ch1	total RNA
+GSE17536	extract_protocol_ch1	RNA was extracted using the Qiagen RNeasy kit.
+GSE17536	label_ch1	biotin
+GSE17536	label_protocol_ch1	Standard Affymetrix protocols were used.
+GSE17536	taxid_ch1	9606
+GSE17536	hyb_protocol	Standard Affymetrix protocols for hybridization to the Affy HGU133 2.0 plus array were used.
+GSE17536	scan_protocol	GeneChip Scanner was used for scanning and generating the raw .CEL files.
+GSE17536	description	Gene expression
+GSE17536	data_processing	Bioconductor's affy package was used for RMA normalization and raw data processing using default settings for background correction and normalization. Cox regression hazards model was applied to the processed data using the survival package. All analyses were performed using R software.
+GSE17536	platform_id	GPL570
+GSE17536	contact_name	Pengcheng,,Lu
+GSE17536	contact_email	pengcheng.lu@vanderbilt.edu
+GSE17536	contact_institute	Vanderbilt University
+GSE17536	contact_address	2200 Pierce Avenue
+GSE17536	contact_city	Nashville
+GSE17536	contact_state	TN
+GSE17536	contact_zip/postal_code	37232
+GSE17536	contact_country	USA
+GSE17536	supplementary_file	ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM437nnn/GSM437093/suppl/GSM437093.CEL.gz | ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM437nnn/GSM437094/suppl/GSM437094.CEL.gz | ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM437nnn/GSM437095/suppl/GSM437095.CEL.gz
+GSE17536	data_row_count	54675
+GSE17536	relation	 | Reanalyzed by: GSM734166 | Reanalyzed by: GSE119087
+GSE17536	relation.1	 | Reanalyzed by: GSM734231 | Reanalyzed by: GSM734230
+GSE17536	relation.2	 | Reanalyzed by: GSE119087
+GSE17536	age:ch1	73 | 63 | 51
+GSE17536	ajcc_stage:ch1	1 | 2 | 3
+GSE17536	dfs_event (disease free survival; cancer recurrence):ch1	no recurrence | recurrence | NA
+GSE17536	dfs_time:ch1	142.55 | 122.72 | 28.96
+GSE17536	dss_event (disease specific survival; death from cancer):ch1	no death | death
+GSE17536	dss_time:ch1	142.55 | 122.72 | 28.96
+GSE17536	ethnicity:ch1	caucasian | other (not caucasian, black, or hispanic) | hispanic
+GSE17536	gender:ch1	male | female
+GSE17536	grade:ch1	2 - Moderately differentiated (MD) | 1 - Well differentiated (WD) | 3 - Poorly differentiated (PD)
+GSE17536	overall survival follow-up time:ch1	142.55 | 122.72 | 28.96
+GSE17536	overall_event (death from any cause):ch1	no death | death
+GSE17537	title	VMC Patient 1 | VMC Patient 2 | VMC Patient 3
+GSE17537	geo_accession	GSM437270 | GSM437271 | GSM437272
+GSE17537	status	Public on Nov 14 2009
+GSE17537	submission_date	Aug 06 2009
+GSE17537	last_update_date	Aug 28 2018
+GSE17537	type	RNA
+GSE17537	channel_count	1
+GSE17537	source_name_ch1	Vanderbilt University Medical Center
+GSE17537	organism_ch1	Homo sapiens
+GSE17537	characteristics_ch1	age: 70 | age: 48 | age: 72
+GSE17537	characteristics_ch1.1	gender: female | gender: male
+GSE17537	characteristics_ch1.2	ethnicity: caucasian | ethnicity: black | ethnicity: hispanic
+GSE17537	characteristics_ch1.3	ajcc_stage: 2 | ajcc_stage: 3 | ajcc_stage: 1
+GSE17537	characteristics_ch1.4	overall_event (death from any cause): no death | grade: 2 - Moderately differentiated(MD) | grade: 1 - Well differentiated (WD)
+GSE17537	characteristics_ch1.5	dfs_event (disease free survival; cancer recurrence): no recurrence | overall_event (death from any cause): no death | overall_event (death from any cause): death
+GSE17537	characteristics_ch1.6	overall survival follow-up time: 54.0493150684932 | dfs_event (disease free survival; cancer recurrence): no recurrence | overall survival follow-up time: 48.2630136986301
+GSE17537	characteristics_ch1.7	dfs_time: 54.0493150684932 | overall survival follow-up time: 63.9123287671233 | overall survival follow-up time: 46.2904109589041
+GSE17537	characteristics_ch1.8	 | dfs_time: 63.9123287671233 | dfs_time: 46.2904109589041
+GSE17537	molecule_ch1	total RNA
+GSE17537	extract_protocol_ch1	RNA was extracted using the Qiagen RNeasy kit.
+GSE17537	label_ch1	biotin
+GSE17537	label_protocol_ch1	Standard Affymetrix protocols were used.
+GSE17537	taxid_ch1	9606
+GSE17537	hyb_protocol	Standard Affymetrix protocols for hybridization to the Affy HGU133 2.0 plus array were used.
+GSE17537	scan_protocol	GeneChip Scanner was used for scanning and generating the raw .CEL files.
+GSE17537	description	Gene expression
+GSE17537	data_processing	Bioconductor's affy package was used for RMA normalization and raw data processing using default settings for background correction and normalization. Cox regression hazards model was applied to the processed data using the survival package. All analyses were performed using R software.
+GSE17537	platform_id	GPL570
+GSE17537	contact_name	Pengcheng,,Lu
+GSE17537	contact_email	pengcheng.lu@vanderbilt.edu
+GSE17537	contact_institute	Vanderbilt University
+GSE17537	contact_address	2200 Pierce Avenue
+GSE17537	contact_city	Nashville
+GSE17537	contact_state	TN
+GSE17537	contact_zip/postal_code	37232
+GSE17537	contact_country	USA
+GSE17537	supplementary_file	ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM437nnn/GSM437270/suppl/GSM437270.CEL.gz | ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM437nnn/GSM437271/suppl/GSM437271.CEL.gz | ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM437nnn/GSM437272/suppl/GSM437272.CEL.gz
+GSE17537	data_row_count	54675
+GSE17537	relation	Reanalyzed by: GSE119087
+GSE17537	age:ch1	70 | 48 | 72
+GSE17537	ajcc_stage:ch1	2 | 3 | 1
+GSE17537	dfs_event (disease free survival; cancer recurrence):ch1	no recurrence | recurrence
+GSE17537	dfs_time:ch1	54.0493150684932 | 63.9123287671233 | 46.2904109589041
+GSE17537	ethnicity:ch1	caucasian | black | hispanic
+GSE17537	gender:ch1	female | male
+GSE17537	grade:ch1	NA | 2 - Moderately differentiated(MD) | 1 - Well differentiated (WD)
+GSE17537	overall survival follow-up time:ch1	54.0493150684932 | 63.9123287671233 | 46.2904109589041
+GSE17537	overall_event (death from any cause):ch1	no death | death
+GSE14333	title	T5266A1 | T521B | T1856A
+GSE14333	geo_accession	GSM358341 | GSM358342 | GSM358343
+GSE14333	status	Public on Jan 08 2010
+GSE14333	submission_date	Jan 08 2009
+GSE14333	last_update_date	Aug 28 2018 | Jun 14 2011 | Jan 25 2012
+GSE14333	type	RNA
+GSE14333	channel_count	1
+GSE14333	source_name_ch1	primary colorectal adenocarcinoma
+GSE14333	organism_ch1	Homo sapiens
+GSE14333	characteristics_ch1	Location: Right; DukesStage: A; Age_Diag: 78; Gender: M; DFS_Time: 3.64; DFS_Cens: 1; AdjXRT: N; AdjCTX: N | Location: Rectum; DukesStage: A; Age_Diag: 53; Gender: F; DFS_Time: 14.53; DFS_Cens: 0; AdjXRT: N; AdjCTX: N | Location: Left; DukesStage: A; Age_Diag: 80; Gender: F; DFS_Time: 16.47; DFS_Cens: 1; AdjXRT: N; AdjCTX: N
+GSE14333	biomaterial_provider_ch1	H Lee Moffitt Cancer Center | Royal Melbourne Hospital
+GSE14333	molecule_ch1	total RNA
+GSE14333	extract_protocol_ch1	Surgically isolated colorectal cancers were immediately frozen in liquid nitrogen. Total RNA was extracted from cancer tissue using Trizol reagent (Invitrogen).
+GSE14333	label_ch1	biotin
+GSE14333	label_protocol_ch1	Approximately 8 ug of total RNA was processed to produce biotinylated cRNA targets.
+GSE14333	taxid_ch1	9606
+GSE14333	hyb_protocol	standard Affymetrix procedures
+GSE14333	scan_protocol	standard Affymetrix procedures
+GSE14333	description	Location: Right; DukesStage: A; Age_Diag: 78; Gender: M; DFS_Time: 3.64; DFS_Cens: 1; AdjXRT: N; AdjCTX: N | Location: Rectum; DukesStage: A; Age_Diag: 53; Gender: F; DFS_Time: 14.53; DFS_Cens: 0; AdjXRT: N; AdjCTX: N | Location: Left; DukesStage: A; Age_Diag: 80; Gender: F; DFS_Time: 16.47; DFS_Cens: 1; AdjXRT: N; AdjCTX: N
+GSE14333	data_processing	Use the simpleaffy package in R/Bioconductor to calculate MAS5.0 calls. These values were subsequently normalized using quantile normalization.
+GSE14333	platform_id	GPL570
+GSE14333	contact_name	Oliver,,Sieber
+GSE14333	contact_phone	61-3-9341-3155
+GSE14333	contact_fax	61-3-9341-3104
+GSE14333	contact_laboratory	LCCI laboratory
+GSE14333	contact_department	Melbourne Tumour Biology Branch
+GSE14333	contact_institute	Ludwig Institute for Cancer Research
+GSE14333	contact_address	6th floor, Centre for Medical Research,  Royal Melbourne Hospital,  Royal Parade
+GSE14333	contact_city	Parkville
+GSE14333	contact_state	Victoria
+GSE14333	contact_zip/postal_code	3052
+GSE14333	contact_country	Australia
+GSE14333	contact_web_link	http://www.ludwig.edu.au
+GSE14333	supplementary_file	ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM358nnn/GSM358341/suppl/GSM358341.CEL.gz | ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM358nnn/GSM358342/suppl/GSM358342.CEL.gz | ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM358nnn/GSM358343/suppl/GSM358343.CEL.gz
+GSE14333	data_row_count	54675
+GSE14333	relation	Reanalyzed by: GSE119087 | Reanalyzed by: GSE29971 | 
+GSE14333	relation.1	 | Reanalyzed by: GSE119087
+GSE14333	Location:ch1	Right; DukesStage: A; Age_Diag: 78; Gender: M; DFS_Time: 3.64; DFS_Cens: 1; AdjXRT: N; AdjCTX: N | Rectum; DukesStage: A; Age_Diag: 53; Gender: F; DFS_Time: 14.53; DFS_Cens: 0; AdjXRT: N; AdjCTX: N | Left; DukesStage: A; Age_Diag: 80; Gender: F; DFS_Time: 16.47; DFS_Cens: 1; AdjXRT: N; AdjCTX: N

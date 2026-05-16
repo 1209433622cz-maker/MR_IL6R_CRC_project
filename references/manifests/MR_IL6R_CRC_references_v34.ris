@@ -1,0 +1,287 @@
+TY  - JOUR
+TI  - Global cancer statistics 2022: GLOBOCAN estimates of incidence and mortality worldwide for 36 cancers in 185 countries
+PY  - 2022
+JO  - CA Cancer J Clin
+DO  - 10.3322/caac.21834
+N1  - Vancouver reference 1
+ER  -
+
+TY  - JOUR
+TI  - Colorectal cancer statistics, 2023
+PY  - 2023
+JO  - CA Cancer J Clin
+DO  - 10.3322/caac.21772
+N1  - Vancouver reference 2
+ER  -
+
+TY  - JOUR
+TI  - Interleukin-6 - a key regulator of colorectal cancer development
+PY  - 2012
+JO  - Int J Biol Sci
+DO  - 10.7150/ijbs.4614
+N1  - Vancouver reference 3
+ER  -
+
+TY  - JOUR
+TI  - Targeting the IL-6/JAK/STAT3 signalling axis in cancer
+PY  - 2018
+JO  - Nat Rev Clin Oncol
+DO  - 10.1038/nrclinonc.2018.8
+N1  - Vancouver reference 4
+ER  -
+
+TY  - JOUR
+TI  - IL-6 in inflammation, autoimmunity and cancer
+PY  - 2021
+JO  - Int Immunol
+DO  - 10.1093/intimm/dxaa078
+N1  - Vancouver reference 5
+ER  -
+
+TY  - JOUR
+TI  - "Mendelian randomization": can genetic epidemiology contribute to understanding environmental determinants of disease? Int J Epidemiol
+PY  - 2003
+JO  - 2003
+DO  - 10.1093/ije/dyg070
+N1  - Vancouver reference 6
+ER  -
+
+TY  - JOUR
+TI  - The MR-Base platform supports systematic causal inference across the human phenome
+PY  - 2018
+JO  - eLife
+DO  - 10.7554/eLife.34408
+N1  - Vancouver reference 7
+ER  -
+
+TY  - JOUR
+TI  - Strengthening the Reporting of Observational Studies in Epidemiology Using Mendelian Randomization: the STROBE-MR statement
+PY  - 2021
+JO  - JAMA
+DO  - 10.1001/jama.2021.18236
+N1  - Vancouver reference 8
+ER  -
+
+TY  - JOUR
+TI  - Bayesian test for colocalisation between pairs of genetic association studies using summary statistics
+PY  - 2014
+JO  - PLoS Genet
+DO  - 10.1371/journal.pgen.1004383
+N1  - Vancouver reference 9
+ER  -
+
+TY  - JOUR
+TI  - Comprehensive molecular characterization of human colon and rectal cancer
+PY  - 2012
+JO  - Nature
+DO  - 10.1038/nature11252
+N1  - Vancouver reference 10
+ER  -
+
+TY  - JOUR
+TI  - TCGAbiolinks: an R/Bioconductor package for integrative analysis of TCGA data
+PY  - 2016
+JO  - Nucleic Acids Res
+DO  - 10.1093/nar/gkv1507
+N1  - Vancouver reference 11
+ER  -
+
+TY  - JOUR
+TI  - An integrated TCGA pan-cancer clinical data resource to drive high-quality survival outcome analytics
+PY  - 2018
+JO  - Cell
+DO  - 10.1016/j.cell.2018.02.052
+N1  - Vancouver reference 12
+ER  -
+
+TY  - JOUR
+TI  - Estimating the population abundance of tissue-infiltrating immune and stromal cell populations using gene expression
+PY  - 2016
+JO  - Genome Biol
+DO  - 10.1186/s13059-016-1070-5
+N1  - Vancouver reference 13
+ER  -
+
+TY  - JOUR
+TI  - Molecular and pharmacological modulators of the tumor immune contexture revealed by deconvolution of RNA-seq data
+PY  - 2019
+JO  - Genome Med
+DO  - 10.1186/s13073-019-0638-6
+N1  - Vancouver reference 14
+ER  -
+
+TY  - JOUR
+TI  - Integrating single-cell transcriptomic data across different conditions, technologies, and species
+PY  - 2018
+JO  - Nat Biotechnol
+DO  - 10.1038/nbt.4096
+N1  - Vancouver reference 15
+ER  -
+
+TY  - JOUR
+TI  - Comprehensive integration of single-cell data
+PY  - 2019
+JO  - Cell
+DO  - 10.1016/j.cell.2019.05.031
+N1  - Vancouver reference 16
+ER  -
+
+TY  - JOUR
+TI  - Inference and analysis of cell-cell communication using CellChat
+PY  - 2021
+JO  - Nat Commun
+DO  - 10.1038/s41467-021-21246-9
+N1  - Vancouver reference 17
+ER  -
+
+TY  - JOUR
+TI  - clusterProfiler 4.0: a universal enrichment tool for interpreting omics data
+PY  - 2021
+JO  - Innovation (Camb)
+DO  - 10.1016/j.xinn.2021.100141
+N1  - Vancouver reference 18
+ER  -
+
+TY  - JOUR
+TI  - KEGG mapping tools for uncovering hidden features in biological data
+PY  - 2022
+JO  - Protein Sci
+DO  - 10.1002/pro.4172
+N1  - Vancouver reference 19
+ER  -
+
+TY  - JOUR
+TI  - The Reactome pathway knowledgebase 2022
+PY  - 2022
+JO  - Nucleic Acids Res
+DO  - 10.1093/nar/gkab1028
+N1  - Vancouver reference 20
+ER  -
+
+TY  - JOUR
+TI  - The STRING database in 2023: protein-protein association networks and functional enrichment analyses for any sequenced genome of interest
+PY  - 2023
+JO  - Nucleic Acids Res
+DO  - 10.1093/nar/gkac1000
+N1  - Vancouver reference 21
+ER  -
+
+TY  - JOUR
+TI  - Gene set enrichment analysis: a knowledge-based approach for interpreting genome-wide expression profiles
+PY  - 2005
+JO  - Proc Natl Acad Sci U S A
+DO  - 10.1073/pnas.0506580102
+N1  - Vancouver reference 22
+ER  -
+
+TY  - JOUR
+TI  - The Molecular Signatures Database hallmark gene set collection
+PY  - 2015
+JO  - Cell Syst
+DO  - 10.1016/j.cels.2015.12.004
+N1  - Vancouver reference 23
+ER  -
+
+TY  - JOUR
+TI  - Integrative genomic and single-cell framework identifies druggable targets for colorectal cancer precision therapy
+PY  - 2025
+JO  - Front Immunol
+DO  - 10.3389/fimmu.2025.1604154
+N1  - Vancouver reference 24
+ER  -
+
+TY  - JOUR
+TI  - Assessing male reproductive toxicity of environmental pollutant di-ethylhexyl phthalate with network toxicology and molecular docking strategy
+PY  - 2024
+JO  - Reprod Toxicol
+DO  - 10.1016/j.reprotox.2024.108749
+N1  - Vancouver reference 25
+ER  -
+
+TY  - JOUR
+TI  - Decoding per- and polyfluoroalkyl substances in hepatocellular carcinoma: a multi-omics and computational toxicology approach
+PY  - 2025
+JO  - J Transl Med
+DO  - 10.1186/s12967-025-06517-z
+N1  - Vancouver reference 26
+ER  -
+
+TY  - JOUR
+TI  - Integrative causal and single-cell analyses reveal genes linking endocrine-disrupting chemicals to male infertility
+PY  - 2025
+JO  - Ecotoxicol Environ Saf
+DO  - 10.1016/j.ecoenv.2025.118709
+N1  - Vancouver reference 27
+ER  -
+
+TY  - JOUR
+TI  - Prioritizing endocrine-disrupting chemicals targeting systemic lupus erythematosus through Mendelian randomization and colocalization
+PY  - 2025
+JO  - Ecotoxicol Environ Saf
+DO  - 10.1016/j.ecoenv.2025.118126
+N1  - Vancouver reference 28
+ER  -
+
+TY  - JOUR
+TI  - Progress in understanding the IL-6/STAT3 pathway in colorectal cancer
+PY  - 2020
+JO  - Onco Targets Ther
+DO  - 10.2147/OTT.S278013
+N1  - Vancouver reference 29
+ER  -
+
+TY  - JOUR
+TI  - Interleukin-6 released by colon cancer-associated fibroblasts is critical for tumour angiogenesis: anti-interleukin-6 receptor antibody suppressed angiogenesis and inhibited tumour-stroma interaction
+PY  - 2014
+JO  - Br J Cancer
+DO  - 10.1038/bjc.2013.748
+N1  - Vancouver reference 30
+ER  -
+
+TY  - JOUR
+TI  - Inflammation and cancer: IL-6 and STAT3 complete the link
+PY  - 2009
+JO  - Cancer Cell
+DO  - 10.1016/j.ccr.2009.01.009
+N1  - Vancouver reference 31
+ER  -
+
+TY  - JOUR
+TI  - The two faces of IL-6 in the tumor microenvironment
+PY  - 2014
+JO  - Semin Immunol
+DO  - 10.1016/j.smim.2014.01.008
+N1  - Vancouver reference 32
+ER  -
+
+TY  - JOUR
+TI  - New perspectives in cancer immunotherapy: targeting IL-6 cytokine family
+PY  - 2023
+JO  - J Immunother Cancer
+DO  - 10.1136/jitc-2023-007530
+N1  - Vancouver reference 33
+ER  -
+
+TY  - JOUR
+TI  - The Reactome pathway knowledgebase
+PY  - 2020
+JO  - Nucleic Acids Res
+DO  - 10.1093/nar/gkz1031
+N1  - Vancouver reference 34
+ER  -
+
+TY  - JOUR
+TI  - Clusterin Is a Prognostic Biomarker of Lower-Grade Gliomas and Is Associated with Immune Cell Infiltration
+PY  - 2023
+JO  - Int J Mol Sci
+DO  - 10.3390/ijms241713413
+N1  - Vancouver reference 35
+ER  -
+
+TY  - JOUR
+TI  - MicroRNAs in breast cancer-new frontiers in diagnosis, targeted therapy, and prognosis assessment
+PY  - 2025
+JO  - Front Oncol
+DO  - 10.3389/fonc.2025.1529907
+N1  - Vancouver reference 36
+ER  -

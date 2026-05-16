@@ -1,0 +1,3 @@
+tag	ts	seurat_source	meta_attached	meta_match_rate	meta_cell_id_col	group_col	n_cells	n_features	umap_source	umap_error	fig7_abc_ok	cellchat_ok	cellchat_error
+10x	2026-02-08 23:31:01	BUILD_FAILED:缺少参数"seu_cells",也没有缺省值	FALSE								FALSE	FALSE	Seurat build failed: 缺少参数"seu_cells",也没有缺省值
+smartseq2	2026-02-08 23:31:04	BUILD_FAILED:缺少参数"seu_cells",也没有缺省值	FALSE								FALSE	FALSE	Seurat build failed: 缺少参数"seu_cells",也没有缺省值

@@ -1,0 +1,5 @@
+﻿cohort,source,samples,suggested_use,priority,reference_url
+GSE39582,GEO,443 colon cancer + 19 non-tumoral mucosa in subseries; large microarray CRC cohort,"Primary external validation: IL6R expression, survival/Cox if phenotype fields available, immune/inflammatory association",High,https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE39582
+GSE17536,GEO,CRC patient expression data used in metastasis/prognosis analyses,External survival validation and directionality check for IL6R expression,High,https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE17536
+GSE17537,GEO,Vanderbilt/Moffitt CRC cohort pair with survival/metastasis annotation,Sensitivity validation for OS/metastasis endpoints,Medium,https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE17537
+GSE14333,GEO,290 primary CRC samples; prognosis classifier training/validation context,Additional expression/prognosis validation if phenotype fields support endpoint extraction,Medium,https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE14333

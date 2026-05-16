@@ -1,0 +1,10 @@
+item	path	exists
+version	v30.2.0	TRUE
+input_pp_table	D:\SCI2\MD-1\MR_IL6R_CRC_project_template_v4/3_results/02_coloc/table2_coloc_pp_2026-01-27_014727.tsv	TRUE
+pdf	D:\SCI2\MD-1\MR_IL6R_CRC_project_template_v4/4_figures_submission_v30_2/01_main_figures/Figure_3_Colocalization_IL6R_locus_v30_2_20260516_050400.pdf	TRUE
+png	D:\SCI2\MD-1\MR_IL6R_CRC_project_template_v4/4_figures_submission_v30_2/01_main_figures/Figure_3_Colocalization_IL6R_locus_v30_2_20260516_050400.png	TRUE
+svg	D:\SCI2\MD-1\MR_IL6R_CRC_project_template_v4/4_figures_submission_v30_2/01_main_figures/Figure_3_Colocalization_IL6R_locus_v30_2_20260516_050400.svg	TRUE
+source_table	D:\SCI2\MD-1\MR_IL6R_CRC_project_template_v4/4_figures_submission_v30_2/07_source_tables/Figure_3_coloc_pp_plot_data_v30_2_20260516_050400.tsv	TRUE
+legend	D:\SCI2\MD-1\MR_IL6R_CRC_project_template_v4/4_figures_submission_v30_2/03_legends/Figure_3_legend_v30_2_20260516_050400.md	TRUE
+PP.H4	0.047969	TRUE
+status	success	TRUE

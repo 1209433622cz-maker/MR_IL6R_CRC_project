@@ -1,0 +1,8 @@
+item	path	exists
+pdf	D:\SCI2\MD-1\MR_IL6R_CRC_project_template_v4/4_figures_submission_v30_1/01_main_figures/Figure_4_TCGA_expression_survival_v30_1_20260516_045533.pdf	TRUE
+png	D:\SCI2\MD-1\MR_IL6R_CRC_project_template_v4/4_figures_submission_v30_1/01_main_figures/Figure_4_TCGA_expression_survival_v30_1_20260516_045533.png	TRUE
+svg	D:\SCI2\MD-1\MR_IL6R_CRC_project_template_v4/4_figures_submission_v30_1/01_main_figures/Figure_4_TCGA_expression_survival_v30_1_20260516_045533.svg	TRUE
+source_survival	D:\SCI2\MD-1\MR_IL6R_CRC_project_template_v4/3_results/03_tcga/TCGA02v14_IL6R_OS_PFI_summary_2026-05-15.tsv	TRUE
+source_expression	D:\SCI2\MD-1\MR_IL6R_CRC_project_template_v4/3_results/03_tcga/TCGA02v8_7_IL6R_TumorVsNormal_wilcox_2026-02-08.tsv	TRUE
+legend	D:\SCI2\MD-1\MR_IL6R_CRC_project_template_v4/4_figures_submission_v30_1/03_legends/Figure_4_legend_20260516_045534.md	TRUE
+version	v30.1.0	TRUE

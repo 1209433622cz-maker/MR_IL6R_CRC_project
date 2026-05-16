@@ -1,0 +1,8 @@
+item	path	exists
+pdf	D:\SCI2\MD-1\MR_IL6R_CRC_project_template_v4/4_figures_submission_v36/01_main_figures/Figure_2_MR_no_legend_overlap_no_clipping_v36_20260516_061605.pdf	TRUE
+png	D:\SCI2\MD-1\MR_IL6R_CRC_project_template_v4/4_figures_submission_v36/01_main_figures/Figure_2_MR_no_legend_overlap_no_clipping_v36_20260516_061605.png	TRUE
+svg	D:\SCI2\MD-1\MR_IL6R_CRC_project_template_v4/4_figures_submission_v36/01_main_figures/Figure_2_MR_no_legend_overlap_no_clipping_v36_20260516_061605.svg	TRUE
+source_table	D:\SCI2\MD-1\MR_IL6R_CRC_project_template_v4/4_figures_submission_v36/04_source_tables/Figure_2_MR_plot_data_v36_20260516_061608.tsv	TRUE
+legend	D:\SCI2\MD-1\MR_IL6R_CRC_project_template_v4/4_figures_submission_v36/03_legends/Figure_2_legend_v36_20260516_061608.md	TRUE
+version	v36.0.0	TRUE
+fix	B legend faceting; C clipping fixed by expanded axes and margins	TRUE

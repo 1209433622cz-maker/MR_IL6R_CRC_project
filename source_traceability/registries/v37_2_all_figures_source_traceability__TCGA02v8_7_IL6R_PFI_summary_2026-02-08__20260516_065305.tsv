@@ -1,0 +1,4 @@
+stratum	endpoint	n	events	km_median	logrank_p	cox_uni_hr	cox_uni_lcl	cox_uni_ucl	cox_uni_p	cox_multi_hr	cox_multi_lcl	cox_multi_ucl	cox_multi_p	covariates	logrank_fdr	cox_uni_fdr	cox_multi_fdr
+ALL	PFI	0	0	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+COAD	PFI	0	0	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+READ	PFI	0	0	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA

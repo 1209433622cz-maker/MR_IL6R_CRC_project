@@ -1,0 +1,4 @@
+No open-source license has been selected yet.
+
+Until the author selects a license, all rights are reserved by the author. 
+If this repository is intended only for manuscript peer review / data availability, consider keeping it private or using a clear data-use statement.

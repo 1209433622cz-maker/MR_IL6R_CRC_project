@@ -1,0 +1,8 @@
+item	path	exists
+pdf	D:\SCI2\MD-1\MR_IL6R_CRC_project_template_v4/4_figures_submission_v36/01_main_figures/Figure_5_immune_infiltration_vertical_nonoverlap_v36_20260516_061612.pdf	TRUE
+png	D:\SCI2\MD-1\MR_IL6R_CRC_project_template_v4/4_figures_submission_v36/01_main_figures/Figure_5_immune_infiltration_vertical_nonoverlap_v36_20260516_061612.png	TRUE
+svg	D:\SCI2\MD-1\MR_IL6R_CRC_project_template_v4/4_figures_submission_v36/01_main_figures/Figure_5_immune_infiltration_vertical_nonoverlap_v36_20260516_061612.svg	TRUE
+source_table	D:\SCI2\MD-1\MR_IL6R_CRC_project_template_v4/4_figures_submission_v36/04_source_tables/Figure_5_immune_aggregated_plot_data_v36_20260516_061614.tsv	TRUE
+legend	D:\SCI2\MD-1\MR_IL6R_CRC_project_template_v4/4_figures_submission_v36/03_legends/Figure_5_legend_v36_20260516_061614.md	TRUE
+version	v36.0.0	TRUE
+fix	Vertical layout; no panel overlap; balanced method display	TRUE

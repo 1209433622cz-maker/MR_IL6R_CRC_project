@@ -1,0 +1,112 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2400px" height="1600px" viewBox="0 0 2400 1600">
+<defs><marker id="arrow" markerWidth="10" markerHeight="10" refX="5" refY="3" orient="auto" markerUnits="strokeWidth"><path d="M0,0 L0,6 L6,3 z" fill="#333"/></marker></defs>
+<rect width="100%" height="100%" fill="#ffffff"/>
+<text x="1200" y="70" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="44" font-weight="700" fill="#111">Figure 1. Study workflow and integrated evidence chain</text>
+<text x="1200" y="115" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="24" fill="#333">Integrated multi-layered analysis framework evaluating IL6R in colorectal cancer</text>
+<circle cx="275.0" cy="145" r="38" fill="#1559b6"/><text x="275.0" y="157" text-anchor="middle" font-family="Arial" font-size="40" font-weight="700" fill="#fff">1</text>
+<rect x="70" y="180" width="410" height="70" rx="14" fill="#1559b6"/>
+<text x="275.0" y="210" text-anchor="middle" font-family="Arial" font-size="26" font-weight="700" fill="#fff">Genetic evidence layer</text>
+<rect x="70" y="250" width="410" height="930" rx="14" fill="#fdfefe" stroke="#1559b6" stroke-width="3"/>
+<rect x="95" y="285" width="360" height="170" rx="12" fill="#ffffff" stroke="#1559b6" stroke-width="2"/>
+<circle cx="150" cy="370.0" r="32" fill="#1559b6" opacity="0.18"/><circle cx="150" cy="370.0" r="14" fill="#1559b6"/>
+<text x="205" y="340" font-family="Arial" font-size="22" font-weight="600" fill="#111">Circulating IL6R pQTL</text>
+<text x="205" y="370" font-family="Arial" font-size="22" font-weight="600" fill="#111">instruments</text>
+<line x1="275.0" y1="455" x2="275.0" y2="490" stroke="#333" stroke-width="4" marker-end="url(#arrow)"/>
+<rect x="95" y="490" width="360" height="170" rx="12" fill="#ffffff" stroke="#1559b6" stroke-width="2"/>
+<circle cx="150" cy="575.0" r="32" fill="#1559b6" opacity="0.18"/><circle cx="150" cy="575.0" r="14" fill="#1559b6"/>
+<text x="205" y="545" font-family="Arial" font-size="22" font-weight="600" fill="#111">Two-sample Mendelian</text>
+<text x="205" y="575" font-family="Arial" font-size="22" font-weight="600" fill="#111">randomization across CRC</text>
+<text x="205" y="605" font-family="Arial" font-size="22" font-weight="600" fill="#111">endpoints</text>
+<line x1="275.0" y1="660" x2="275.0" y2="695" stroke="#333" stroke-width="4" marker-end="url(#arrow)"/>
+<rect x="95" y="695" width="360" height="170" rx="12" fill="#ffffff" stroke="#1559b6" stroke-width="2"/>
+<circle cx="150" cy="780.0" r="32" fill="#1559b6" opacity="0.18"/><circle cx="150" cy="780.0" r="14" fill="#1559b6"/>
+<text x="205" y="750" font-family="Arial" font-size="22" font-weight="600" fill="#111">Sensitivity analyses</text>
+<line x1="275.0" y1="865" x2="275.0" y2="900" stroke="#333" stroke-width="4" marker-end="url(#arrow)"/>
+<rect x="95" y="900" width="360" height="170" rx="12" fill="#ffffff" stroke="#1559b6" stroke-width="2"/>
+<circle cx="150" cy="985.0" r="32" fill="#1559b6" opacity="0.18"/><circle cx="150" cy="985.0" r="14" fill="#1559b6"/>
+<text x="205" y="955" font-family="Arial" font-size="22" font-weight="600" fill="#111">Colocalization at the</text>
+<text x="205" y="985" font-family="Arial" font-size="22" font-weight="600" fill="#111">IL6R locus</text>
+<circle cx="730.0" cy="145" r="38" fill="#228b33"/><text x="730.0" y="157" text-anchor="middle" font-family="Arial" font-size="40" font-weight="700" fill="#fff">2</text>
+<rect x="525" y="180" width="410" height="70" rx="14" fill="#228b33"/>
+<text x="730.0" y="210" text-anchor="middle" font-family="Arial" font-size="26" font-weight="700" fill="#fff">TCGA transcriptomic and</text>
+<text x="730.0" y="238" text-anchor="middle" font-family="Arial" font-size="26" font-weight="700" fill="#fff">clinical layer</text>
+<rect x="525" y="250" width="410" height="930" rx="14" fill="#fdfefe" stroke="#228b33" stroke-width="3"/>
+<rect x="550" y="285" width="360" height="170" rx="12" fill="#ffffff" stroke="#228b33" stroke-width="2"/>
+<circle cx="605" cy="370.0" r="32" fill="#228b33" opacity="0.18"/><circle cx="605" cy="370.0" r="14" fill="#228b33"/>
+<text x="660" y="340" font-family="Arial" font-size="22" font-weight="600" fill="#111">TCGA COAD/READ</text>
+<text x="660" y="370" font-family="Arial" font-size="22" font-weight="600" fill="#111">expression analysis</text>
+<line x1="730.0" y1="455" x2="730.0" y2="490" stroke="#333" stroke-width="4" marker-end="url(#arrow)"/>
+<rect x="550" y="490" width="360" height="170" rx="12" fill="#ffffff" stroke="#228b33" stroke-width="2"/>
+<circle cx="605" cy="575.0" r="32" fill="#228b33" opacity="0.18"/><circle cx="605" cy="575.0" r="14" fill="#228b33"/>
+<text x="660" y="545" font-family="Arial" font-size="22" font-weight="600" fill="#111">Tumor vs normal</text>
+<text x="660" y="575" font-family="Arial" font-size="22" font-weight="600" fill="#111">comparison</text>
+<line x1="730.0" y1="660" x2="730.0" y2="695" stroke="#333" stroke-width="4" marker-end="url(#arrow)"/>
+<rect x="550" y="695" width="360" height="170" rx="12" fill="#ffffff" stroke="#228b33" stroke-width="2"/>
+<circle cx="605" cy="780.0" r="32" fill="#228b33" opacity="0.18"/><circle cx="605" cy="780.0" r="14" fill="#228b33"/>
+<text x="660" y="750" font-family="Arial" font-size="22" font-weight="600" fill="#111">Reconstructed OS and PFI</text>
+<text x="660" y="780" font-family="Arial" font-size="22" font-weight="600" fill="#111">survival analyses</text>
+<line x1="730.0" y1="865" x2="730.0" y2="900" stroke="#333" stroke-width="4" marker-end="url(#arrow)"/>
+<rect x="550" y="900" width="360" height="170" rx="12" fill="#ffffff" stroke="#228b33" stroke-width="2"/>
+<circle cx="605" cy="985.0" r="32" fill="#228b33" opacity="0.18"/><circle cx="605" cy="985.0" r="14" fill="#228b33"/>
+<text x="660" y="955" font-family="Arial" font-size="22" font-weight="600" fill="#111">Immune infiltration</text>
+<text x="660" y="985" font-family="Arial" font-size="22" font-weight="600" fill="#111">analyses</text>
+<circle cx="1185.0" cy="145" r="38" fill="#e97000"/><text x="1185.0" y="157" text-anchor="middle" font-family="Arial" font-size="40" font-weight="700" fill="#fff">3</text>
+<rect x="980" y="180" width="410" height="70" rx="14" fill="#e97000"/>
+<text x="1185.0" y="210" text-anchor="middle" font-family="Arial" font-size="26" font-weight="700" fill="#fff">Single-cell layer</text>
+<rect x="980" y="250" width="410" height="930" rx="14" fill="#fdfefe" stroke="#e97000" stroke-width="3"/>
+<rect x="1005" y="285" width="360" height="170" rx="12" fill="#ffffff" stroke="#e97000" stroke-width="2"/>
+<circle cx="1060" cy="370.0" r="32" fill="#e97000" opacity="0.18"/><circle cx="1060" cy="370.0" r="14" fill="#e97000"/>
+<text x="1115" y="340" font-family="Arial" font-size="22" font-weight="600" fill="#111">GSE146771 single-cell</text>
+<text x="1115" y="370" font-family="Arial" font-size="22" font-weight="600" fill="#111">RNA-seq</text>
+<line x1="1185.0" y1="455" x2="1185.0" y2="490" stroke="#333" stroke-width="4" marker-end="url(#arrow)"/>
+<rect x="1005" y="490" width="360" height="170" rx="12" fill="#ffffff" stroke="#e97000" stroke-width="2"/>
+<circle cx="1060" cy="575.0" r="32" fill="#e97000" opacity="0.18"/><circle cx="1060" cy="575.0" r="14" fill="#e97000"/>
+<text x="1115" y="545" font-family="Arial" font-size="22" font-weight="600" fill="#111">10x and Smart-seq2</text>
+<text x="1115" y="575" font-family="Arial" font-size="22" font-weight="600" fill="#111">datasets</text>
+<line x1="1185.0" y1="660" x2="1185.0" y2="695" stroke="#333" stroke-width="4" marker-end="url(#arrow)"/>
+<rect x="1005" y="695" width="360" height="170" rx="12" fill="#ffffff" stroke="#e97000" stroke-width="2"/>
+<circle cx="1060" cy="780.0" r="32" fill="#e97000" opacity="0.18"/><circle cx="1060" cy="780.0" r="14" fill="#e97000"/>
+<text x="1115" y="750" font-family="Arial" font-size="22" font-weight="600" fill="#111">Cell type annotation and</text>
+<text x="1115" y="780" font-family="Arial" font-size="22" font-weight="600" fill="#111">IL6-axis profiling</text>
+<line x1="1185.0" y1="865" x2="1185.0" y2="900" stroke="#333" stroke-width="4" marker-end="url(#arrow)"/>
+<rect x="1005" y="900" width="360" height="170" rx="12" fill="#ffffff" stroke="#e97000" stroke-width="2"/>
+<circle cx="1060" cy="985.0" r="32" fill="#e97000" opacity="0.18"/><circle cx="1060" cy="985.0" r="14" fill="#e97000"/>
+<text x="1115" y="955" font-family="Arial" font-size="22" font-weight="600" fill="#111">CellChat intercellular</text>
+<text x="1115" y="985" font-family="Arial" font-size="22" font-weight="600" fill="#111">communication analysis</text>
+<circle cx="1640.0" cy="145" r="38" fill="#7041a0"/><text x="1640.0" y="157" text-anchor="middle" font-family="Arial" font-size="40" font-weight="700" fill="#fff">4</text>
+<rect x="1435" y="180" width="410" height="70" rx="14" fill="#7041a0"/>
+<text x="1640.0" y="210" text-anchor="middle" font-family="Arial" font-size="26" font-weight="700" fill="#fff">Support layer</text>
+<rect x="1435" y="250" width="410" height="930" rx="14" fill="#fdfefe" stroke="#7041a0" stroke-width="3"/>
+<rect x="1460" y="285" width="360" height="220" rx="12" fill="#ffffff" stroke="#7041a0" stroke-width="2"/>
+<circle cx="1515" cy="395.0" r="32" fill="#7041a0" opacity="0.18"/><circle cx="1515" cy="395.0" r="14" fill="#7041a0"/>
+<text x="1570" y="340" font-family="Arial" font-size="22" font-weight="600" fill="#111">IL6R-centered</text>
+<text x="1570" y="370" font-family="Arial" font-size="22" font-weight="600" fill="#111">co-expression network</text>
+<line x1="1640.0" y1="505" x2="1640.0" y2="540" stroke="#333" stroke-width="4" marker-end="url(#arrow)"/>
+<rect x="1460" y="540" width="360" height="220" rx="12" fill="#ffffff" stroke="#7041a0" stroke-width="2"/>
+<circle cx="1515" cy="650.0" r="32" fill="#7041a0" opacity="0.18"/><circle cx="1515" cy="650.0" r="14" fill="#7041a0"/>
+<text x="1570" y="595" font-family="Arial" font-size="22" font-weight="600" fill="#111">GO / KEGG / Reactome</text>
+<text x="1570" y="625" font-family="Arial" font-size="22" font-weight="600" fill="#111">enrichment</text>
+<line x1="1640.0" y1="760" x2="1640.0" y2="795" stroke="#333" stroke-width="4" marker-end="url(#arrow)"/>
+<rect x="1460" y="795" width="360" height="220" rx="12" fill="#ffffff" stroke="#7041a0" stroke-width="2"/>
+<circle cx="1515" cy="905.0" r="32" fill="#7041a0" opacity="0.18"/><circle cx="1515" cy="905.0" r="14" fill="#7041a0"/>
+<text x="1570" y="850" font-family="Arial" font-size="22" font-weight="600" fill="#111">Candidate drug-target</text>
+<text x="1570" y="880" font-family="Arial" font-size="22" font-weight="600" fill="#111">support network</text>
+<circle cx="2095.0" cy="145" r="38" fill="#00827e"/><text x="2095.0" y="157" text-anchor="middle" font-family="Arial" font-size="40" font-weight="700" fill="#fff">5</text>
+<rect x="1890" y="180" width="410" height="70" rx="14" fill="#00827e"/>
+<text x="2095.0" y="210" text-anchor="middle" font-family="Arial" font-size="26" font-weight="700" fill="#fff">Integrated conclusion</text>
+<rect x="1890" y="250" width="410" height="930" rx="14" fill="#fdfefe" stroke="#00827e" stroke-width="3"/>
+<circle cx="2095.0" cy="330" r="70" fill="#00827e" opacity="0.18"/><text x="2095.0" y="360" text-anchor="middle" font-family="Arial" font-size="70" font-weight="700" fill="#00827e">✓</text>
+<text x="2095.0" y="450" text-anchor="middle" font-family="Arial" font-size="22" font-weight="600" fill="#111">MR and colocalization did</text>
+<text x="2095.0" y="484" text-anchor="middle" font-family="Arial" font-size="22" font-weight="600" fill="#111">not support a strong causal</text>
+<text x="2095.0" y="518" text-anchor="middle" font-family="Arial" font-size="22" font-weight="600" fill="#111">or shared-variant effect;</text>
+<text x="2095.0" y="552" text-anchor="middle" font-family="Arial" font-size="22" font-weight="600" fill="#111">TCGA, single-cell and</text>
+<text x="2095.0" y="586" text-anchor="middle" font-family="Arial" font-size="22" font-weight="600" fill="#111">support-layer analyses</text>
+<text x="2095.0" y="620" text-anchor="middle" font-family="Arial" font-size="22" font-weight="600" fill="#111">convergently linked IL6R to</text>
+<text x="2095.0" y="654" text-anchor="middle" font-family="Arial" font-size="22" font-weight="600" fill="#111">an immune-, myeloid- and</text>
+<text x="2095.0" y="688" text-anchor="middle" font-family="Arial" font-size="22" font-weight="600" fill="#111">inflammatory-associated CRC</text>
+<text x="2095.0" y="722" text-anchor="middle" font-family="Arial" font-size="22" font-weight="600" fill="#111">tumour microenvironment.</text>
+<rect x="260" y="1260" width="1880" height="190" rx="20" fill="#edfafa" stroke="#00827e" stroke-width="4"/>
+<text x="1200" y="1325" text-anchor="middle" font-family="Arial" font-size="27" font-weight="700" fill="#111">MR and colocalization did not support a strong causal or shared-variant effect; TCGA, single-cell and support-layer</text>
+<text x="1200" y="1325" text-anchor="middle" font-family="Arial" font-size="27" font-weight="700" fill="#111">analyses convergently linked IL6R to an immune-, myeloid-, and inflammatory-associated colorectal cancer tumour</text>
+<text x="1200" y="1325" text-anchor="middle" font-family="Arial" font-size="27" font-weight="700" fill="#111">microenvironment.</text>
+</svg>

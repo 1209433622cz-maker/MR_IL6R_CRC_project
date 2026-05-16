@@ -1,0 +1,2 @@
+item	status	reason
+tumor_normal_validation	not_claimed	No cohort had an automatically reliable tumour/normal split in the v45 extraction; phenotype audit was retained for manual mapping.
