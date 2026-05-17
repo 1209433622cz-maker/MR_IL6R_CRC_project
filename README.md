@@ -40,3 +40,11 @@ Example GitHub URL format:
 Example release URL format:
 
 `https://github.com/<YOUR_GITHUB_USERNAME>/MR_IL6R_CRC_project/releases/tag/v1.0.0`
+
+## v1.1.0 update
+
+Release 1.1.0 adds v51 manual GEO validation, Supplementary Figure S2, Supplementary Tables S8-S12, a Figure 6 v51 candidate, and updated source-data/code traceability files.
+
+GitHub release URL: https://github.com/1209433622cz-maker/MR_IL6R_CRC_project/releases/tag/v1.1.0
+
+Zenodo DOI: pending until GitHub-Zenodo archiving is completed.

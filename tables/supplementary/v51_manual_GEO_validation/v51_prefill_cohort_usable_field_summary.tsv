@@ -1,0 +1,5 @@
+cohort	n_samples	n_with_IL6R_expression	n_tumour	n_normal	n_stage	n_OS	n_DFS	n_DSS
+GSE14333	290	290	290	0	290	0	0	0
+GSE17536	177	177	177	0	177	177	177	177
+GSE17537	55	55	55	0	55	55	55	0
+GSE39582	585	585	566	19	583	579	577	0

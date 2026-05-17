@@ -1,0 +1,2 @@
+cohort	n_tumour	n_normal	median_tumour	median_normal	mean_tumour	mean_normal	delta_median	wilcoxon_p
+GSE39582	566	19	4.0636362525	6.676826648	4.181255904717314	6.623821103736843	-2.6131903954999993	3.9361837847398804e-13
